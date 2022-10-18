@@ -1,5 +1,5 @@
 # Ignorer alt med det virituelle miljøet
-lib/
-include/
 bin/
+include/
+lib/
 pyvenv.cfg
